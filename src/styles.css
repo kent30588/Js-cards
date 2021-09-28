@@ -8,6 +8,7 @@ body {
   font-family: "Lobster", cursive;
   overflow: hidden;
   margin: 0;
+  padding: 0;
   background: #111;
   height: 100vh;
   display: flex;
@@ -18,7 +19,7 @@ body {
 .container {
   width: 100%;
   display: flex;
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 .slide {
